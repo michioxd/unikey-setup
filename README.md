@@ -2,7 +2,7 @@
 Trình hỗ trợ cài đặt UniKey từ https://www.unikey.org
 
 ## Hướng dẫn sử dụng
-Tải file cài đặt tài [trang Release](https://github.com/michioxd/unikey-setup/releases) hoặc tải trực tiếp [tại đây](https://github.com/michioxd/unikey-setup/releases/download/1.0/UniKeyNTSetup.exe)
+Tải file cài đặt tại [trang Release](https://github.com/michioxd/unikey-setup/releases) hoặc tải trực tiếp [tại đây](https://github.com/michioxd/unikey-setup/releases/download/1.0/UniKeyNTSetup.exe)
 
 Sau khi tải xong bạn chạy file `UniKeyNTSetup.exe` lên
 
